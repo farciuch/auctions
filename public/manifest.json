@@ -1,0 +1,41 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-gQvtG6rO.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/images/auction.svg": {
+    "file": "assets/auction-d1JvIqsc.svg",
+    "src": "resources/images/auction.svg"
+  },
+  "resources/images/cart.svg": {
+    "file": "assets/cart-Jgg9WlHl.svg",
+    "src": "resources/images/cart.svg"
+  },
+  "resources/images/chat.svg": {
+    "file": "assets/chat-B239eS0Z.svg",
+    "src": "resources/images/chat.svg"
+  },
+  "resources/images/logo.svg": {
+    "file": "assets/logo-BEhzgbLy.svg",
+    "src": "resources/images/logo.svg"
+  },
+  "resources/images/logo2.svg": {
+    "file": "assets/logo2-DuBTfVMW.svg",
+    "src": "resources/images/logo2.svg"
+  },
+  "resources/images/ulub.svg": {
+    "file": "assets/ulub-Dc_FElfl.svg",
+    "src": "resources/images/ulub.svg"
+  },
+  "resources/images/ulub2.svg": {
+    "file": "assets/ulub2-DbcMmI-A.svg",
+    "src": "resources/images/ulub2.svg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-gjEDyHyh.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
